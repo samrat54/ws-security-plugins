@@ -3,7 +3,7 @@
 Plugin Name: Security Headers Plugin
 Description: Allows you to set and manage security headers for your WordPress site.
 Plugin Name: Security Headers Plugin
-GitHub Plugin URI: https://github.com/your-github-username/your-github-repo
+GitHub Plugin URI: https://github.com/samrat54/ws-security-plugins
 GitHub Branch: main
 Description: Allows you to set and manage security headers for your WordPress site.
 Version: 1.0.0
